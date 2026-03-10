@@ -1,4 +1,6 @@
 [core]
-    remote = myremote
+    remote = mi_remoto_local
 ['remote "myremote"']
     url = gdrive://13fV-RimtmvrBVSP2upQcIfVh9cfrqIk3
+['remote "mi_remoto_local"']
+    url = /tmp/dvc_remote
